@@ -1,0 +1,10 @@
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/interfaces/order/OrderController.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/application/OrderService.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/domain/order/OrderDetailEntity.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/interfaces/order/OrderRequestDto.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/interfaces/order/OrderResponseDto.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/domain/payment/PaymentEntity.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/interfaces/order/OrderFactory.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/domain/inventory/InventoryRepository.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/domain/order/OrderEntity.java
+/Users/admin/Desktop/cdd-project/src/main/java/a/b/c/domain/inventory/InventoryEntity.java
